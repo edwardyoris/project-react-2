@@ -1,0 +1,23 @@
+.App {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://www.solofondos.com/wp-content/uploads/2015/12/efecto-lluvia-en-parabrisas-auto-7223.jpg);
+}
+
+.card__article {
+    background-color: black;
+    color: antiquewhite;
+    padding: 1rem;
+    border-radius: 1rem;
+    text-align: center;
+}
+
+.card__sections {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
